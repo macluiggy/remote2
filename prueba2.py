@@ -17,3 +17,4 @@ result = [a for a in A if a not in subset_of_A]
 print(result)
 result2 = set(A)- set(subset_of_A)
 print(result2)
+#made in remoto
