@@ -18,4 +18,5 @@ print(result)
 result2 = set(A)- set(subset_of_A)
 print(result2)
 #made in remoto jeje eñ pepe heeeeeeeeeeeee
-#por ahora estas behind mi yabe
+#por ahora estas behind mi yabe, ahora ya no, chevere
+#ahora ya estas ahead mi loco
